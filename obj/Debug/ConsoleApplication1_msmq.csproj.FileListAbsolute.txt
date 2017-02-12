@@ -1,0 +1,7 @@
+F:\phani\VS_LAB\ConsoleApplication1_msmq\bin\Debug\ConsoleApplication1_msmq.exe.config
+F:\phani\VS_LAB\ConsoleApplication1_msmq\obj\Debug\ConsoleApplication1_msmq.csprojResolveAssemblyReference.cache
+F:\phani\VS_LAB\ConsoleApplication1_msmq\bin\Debug\ConsoleApplication1_msmq.exe
+F:\phani\VS_LAB\ConsoleApplication1_msmq\bin\Debug\ConsoleApplication1_msmq.pdb
+F:\phani\VS_LAB\ConsoleApplication1_msmq\obj\Debug\ConsoleApplication1_msmq.exe
+F:\phani\VS_LAB\ConsoleApplication1_msmq\obj\Debug\ConsoleApplication1_msmq.pdb
+F:\phani\VS_LAB\ConsoleApplication1_msmq\bin\Debug\Newtonsoft.Json.dll
